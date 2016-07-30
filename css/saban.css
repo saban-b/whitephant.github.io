@@ -9,7 +9,7 @@ html {
   box-sizing: inherit;
 }
 @font-face{ 
-	font-family: 'MyWebFont';
+	font-family: 'Alef Hebrew';
 	src: url('Alef-Regular.eot');
 	src: url('Alef-Regular.eot?#iefix') format('embedded-opentype'),
 	     url('Alef-Regular.woff') format('woff'),
