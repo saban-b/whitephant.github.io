@@ -10,13 +10,18 @@ html {
 }
 @font-face{ 
 	font-family: 'MyWebFont';
-	src: url('WebFont.eot');
-	src: url('WebFont.eot?#iefix') format('embedded-opentype'),
-	     url('WebFont.woff') format('woff'),
-	     url('WebFont.ttf') format('truetype'),
-	     url('WebFont.svg#webfont') format('svg');
+	src: url('Alef-Regular.eot');
+	src: url('Alef-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('Alef-Regular.woff') format('woff'),
+	     url('Alef-Regular.ttf') format('truetype'),
+	     url('Alef-Regular.svg#webfont') format('svg');
 }
 body {
+    font-family: "Alef Hebrew",
+               “Helvetica Neue”,
+               Helvetica,
+               Arial,
+               sans-serif;
     background-color: #F0EAE8;
     background-image:url('../img/bg.jpg');
     background-repeat:no-repeat;
